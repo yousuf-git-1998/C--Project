@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|e:\\1281533-c# project(3 class)\\monthly project -pressure cooker -c#\\monthly project -pressure cooker -c#\\test\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\test\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\RepositoryFactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IRepositoryFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\GenericRepositoryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\PressureCooker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\EntityBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\MicroOven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\test\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\test\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\models\\pressurecooker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\models\\pressurecooker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\models\\microoven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\models\\microoven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IGenecriRepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\repositories\\igenecrirepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\repositories\\igenecrirepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\factorys\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\factorys\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\monthly project -pressure cooker -c#\\factorys\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1BB2E0-068A-4023-A9C8-03BBB1208D38}|Monthly Project -pressure cooker -c#\\RepositoryFactoryAndMethodPattern.Models-c#.csproj|solutionrelative:monthly project -pressure cooker -c#\\factorys\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 223,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\Program.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\Program.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\Program.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:11:26.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IRepositoryFactory.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:01:06.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryFactoryimpl.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\RepositoryFactoryimpl.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\RepositoryFactoryimpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:00:05.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest1.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:58:35.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest2.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\DITest2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:57:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MicroOven.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\MicroOven.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\MicroOven.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:03:14.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PressureCooker.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\PressureCooker.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\PressureCooker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:03:51.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\EntityBase.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:04:31.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\TEST\\DITest1.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\TEST\\DITest1.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\TEST\\DITest1.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\TEST\\DITest1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:56:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\GenericRepositoryImpl.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:01:52.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenecriRepostory.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IGenecriRepostory.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\IGenecriRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:02:38.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\Program.cs",
+              "ToolTip": "F:\\R59~~ISDB - ASP.NET\\M3~~C#\\-------pp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:05:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\Program.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\Program.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\Program.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:43:51.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\TEST\\DITest2.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\TEST\\DITest2.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\TEST\\DITest2.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\TEST\\DITest2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:59:49.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryFactoryimpl.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\FACTORYS\\RepositoryFactoryimpl.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\FACTORYS\\RepositoryFactoryimpl.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\FACTORYS\\RepositoryFactoryimpl.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\FACTORYS\\RepositoryFactoryimpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:28:26.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\FACTORYS\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\FACTORYS\\IRepositoryFactory.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\FACTORYS\\IRepositoryFactory.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\FACTORYS\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:45:31.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\REPOSITORIES\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\REPOSITORIES\\GenericRepositoryImpl.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\REPOSITORIES\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\REPOSITORIES\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:26:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenecriRepostory.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\REPOSITORIES\\IGenecriRepostory.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\REPOSITORIES\\IGenecriRepostory.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\REPOSITORIES\\IGenecriRepostory.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\REPOSITORIES\\IGenecriRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:01:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MicroOven.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\MicroOven.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\MODELS\\MicroOven.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\MicroOven.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\MODELS\\MicroOven.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:58:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PressureCooker.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\PressureCooker.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\MODELS\\PressureCooker.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\PressureCooker.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\MODELS\\PressureCooker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:50:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Monthly Project -pressure cooker -c#\\MODELS\\EntityBase.cs",
+              "ToolTip": "E:\\1281533-C# Project(3 class)\\Monthly Project -pressure cooker -c#\\Monthly Project -pressure cooker -c#\\MODELS\\EntityBase.cs",
+              "RelativeToolTip": "Monthly Project -pressure cooker -c#\\MODELS\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:48:51.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
